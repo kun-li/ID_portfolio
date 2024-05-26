@@ -13,7 +13,7 @@ I transferred face-to-face courses to online formats using learning management s
 
 I utilized various formats, such as infographics, to deliver e-learning development principles and guidelines. For example, I used Canva to design an infographic on engaging online learners using the Community of Inquiry framework, which is through teaching, cognitive, and social presence. I displayed the printed infographic on my office door to attract faculty attention. Consequently, many faculty members requested digital or printed copies for their use.
 
-Engaging Learning through Community of Inquiry
+<a href="https://github.com/kun-li/ID_portfolio/blob/main/Engaging_Online_COI.png" target="_blank">Engaging Learning through Community of Inquiry</a>
 
 ## Multimedia
 I collaborated with a subject matter expert to design two Chemistry courses, integrating the ARCS model, backward design, and adult learning principles. Additionally, I edited all videos from week 2 onwards using Camtasia and Adobe Premiere.
@@ -23,4 +23,4 @@ I collaborated with a subject matter expert to design two Chemistry courses, int
 
 I excel in instructional video design, recording, and editing, and I regularly train faculty on creating effective and engaging videos for their online courses. My deep understanding of learning theories, instructional design models, and current literature equips me to develop comprehensive guidelines for faculty use. To support faculty, I designed the following video tips handout, providing them with practical and effective strategies.
 
-Video Recording Tips
+<a href="[https://github.com/kun-li/ID_portfolio/blob/main/Engaging_Online_COI.png](https://github.com/kun-li/ID_portfolio/blob/main/Video%20Recording%20Tips.pdf)" target="_blank">Video Recording Tips</a>
