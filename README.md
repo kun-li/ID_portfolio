@@ -23,4 +23,4 @@ I collaborated with a subject matter expert to design two Chemistry courses, int
 
 I excel in instructional video design, recording, and editing, and I regularly train faculty on creating effective and engaging videos for their online courses. My deep understanding of learning theories, instructional design models, and current literature equips me to develop comprehensive guidelines for faculty use. To support faculty, I designed the following video tips handout, providing them with practical and effective strategies.
 
-<a href="[https://github.com/kun-li/ID_portfolio/blob/main/Engaging_Online_COI.png](https://github.com/kun-li/ID_portfolio/blob/main/Video%20Recording%20Tips.pdf)" target="_blank">Video Recording Tips</a>
+<a href="https://github.com/kun-li/ID_portfolio/blob/main/Engaging_Online_COI.png" target="_blank">Video Recording Tips</a>
