@@ -9,7 +9,7 @@ My instructional design philosophy centers on creating engaging, effective learn
 ## E-Learning Development
 I transferred face-to-face courses to online formats using learning management systems such as Sakai, Blackboard, and Canvas. Additionally, I designed an online course teaching guide for faculty in higher education. Below are sample slides from my online course design guide training.
 
-Online Course Design Slides
+<a href="https://github.com/kun-li/ID_portfolio/blob/main/Teaching_Sample.pdf" target="_blank">Online Course Design Slides</a>
 
 I utilized various formats, such as infographics, to deliver e-learning development principles and guidelines. For example, I used Canva to design an infographic on engaging online learners using the Community of Inquiry framework, which is through teaching, cognitive, and social presence. I displayed the printed infographic on my office door to attract faculty attention. Consequently, many faculty members requested digital or printed copies for their use.
 
